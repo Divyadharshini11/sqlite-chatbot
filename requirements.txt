@@ -1,0 +1,8 @@
+streamlit==1.32.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+torch>=2.0.0
+transformers>=4.38.0
+rapidfuzz>=3.6.0
+accelerate>=0.26.0
